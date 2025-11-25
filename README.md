@@ -1,3 +1,3 @@
 # 🚀 Spaceship-Titanic
-currently working 
+A dataset from Kaggle. Currently figuring it out 😄
 # 
